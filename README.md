@@ -21,8 +21,8 @@ Anaconda - Python 3.7
 
 # PROGRAM:
 ```
-#DEVELOPED BY: Balachandran S
-#REGISTER NO: 22006708
+DEVELOPED BY: Balachandran S
+REGISTER NO: 22006708
 with open("file.txt") as fp:
     with open("fire2.txt","w") as fp1:
         line= fp.read()
