@@ -1,9 +1,9 @@
 # copy-file
 # AIM:
-To write a python program for copying the contents from one file to another file.
+### To write a python program for copying the contents from one file to another file.
 # EQUIPEMENT'S REQUIRED: 
-PC
-Anaconda - Python 3.7
+### PC
+### Anaconda - Python 3.7
 # ALGORITHM: 
 ## Step 1:
 ### Use open function to open the file in which we want to copy from and access it in read mode.
@@ -34,4 +34,4 @@ with open("file.txt") as fp:
 
 
 # RESULT:
-Thus the program is written to copy the contents from one file to another file.
+### Thus the program is written to copy the contents from one file to another file.
